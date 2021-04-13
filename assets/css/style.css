@@ -1,12 +1,22 @@
-/**
-* Template Name: Restaurantly - v1.2.1
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+.card-karir {
+  border-radius: 10px;
+  border: 3px solid #cda45e;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.card-karir:hover {
+  background: #3d2701;
+  border: 3px solid #3d2701;
+  color: white !important;
+}
+.title-career {
+  color: #fcd38e;
+}
 
 /*--------------------------------------------------------------
 # General
+
+
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
